@@ -20,11 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0723bc4c-23e2-416d-9ba0-26b45ab04c1c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_file1" beforeDir="false" afterPath="$PROJECT_DIR$/test_file1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_file_from_local" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,5 +66,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="589" y="267" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599332994353">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state x="589" y="267" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1707.929/-1920.103.1920.1170@0.0.1707.929" timestamp="1599332994353" />
   </component>
 </project>
