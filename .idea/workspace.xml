@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0723bc4c-23e2-416d-9ba0-26b45ab04c1c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/new_file_from_local" afterDir="false" />
-    </list>
+    <list default="true" id="0723bc4c-23e2-416d-9ba0-26b45ab04c1c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,5 +70,9 @@
       <screen x="0" y="0" width="1707" height="929" />
     </state>
     <state x="589" y="267" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1707.929/-1920.103.1920.1170@0.0.1707.929" timestamp="1599332994353" />
+    <state x="634" y="220" key="FileChooserDialogImpl" timestamp="1599333092841">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state x="634" y="220" key="FileChooserDialogImpl/0.0.1707.929/-1920.103.1920.1170@0.0.1707.929" timestamp="1599333092841" />
   </component>
 </project>
